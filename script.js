@@ -1,5 +1,4 @@
 //Initializing the variables
-
 var timer = 0; //timer is set to zero by default
 var timerInterval;
 //getElementById method is used to access the three spans we created using their respective ids
@@ -43,6 +42,4 @@ function reset(){
   minute.textContent = "00";
 }
 
-
-
-//For buttons: every button calls a similarly named function based on the onclick event attribute
+//For buttons: every button calls a similarly named function based on the onclick event attribute in the html code
