@@ -1,2 +1,2 @@
 # JavaScript-Stopwatch
-Design of a Simple Stop Watch using Plain JavaScript together with HTML and CSS
+Design of a Simple Stop Watch using Plain JavaScript together with HTML and CSS.
